@@ -7,13 +7,43 @@
   </head>
   <body>
     <p>We pride ourselves in our customized aromatheorpy boxes. To make the proccess as easy as possible please fill out the following form. After you fill it out we will have one of our aromatheorpy specialist contact you. Thank you and congratulations for taking the first steps to a better life.</p>
-    <form>
-      <!--first name-->
-      <!--last name-->
-      <!--birthdate to confirm age-->
-      <!--prefered product dropdown-->
-      <!--goals and conserns textbox-->
-      <!--submit botton-->
+  <form action="https://example.com">
+    <label for="first">First Name:</label>
+    <input type="text" name="first" id="first">
+    <label for="last">Last Name:</label>
+    <input type="text" name="last" id="last">
+    <br>
+    <br>
+    <label for="dob">Date of birth:</label>
+    <input type="text" name="dob" id="dob" placeholder="mm/dd/yyyy">
+    <br>
+    <br>
+    <label for="email">Email: </label>
+    <input type="text" name="email" id="email">
+    <label for="phone">Phone: </label>
+    <input type="text" name="phone" id="phone" placeholder="(555) 555-5555">
+    <br>
+    <br>
+    <label for="packages">Packages: </label>
+    <select name="packages" id="packages">
+      <option value="energy">energy</option>
+      <option value="painrelief">Pain relief</option>
+      <option value="relax">Relax</option>
+    </select>
+    products:
+      <input type="checkbox" id="product1" name="product1" value="soap">
+      <label for="product1"> soap </label>
+      <input type="checkbox" id="product2" name="product2" value="insense">
+      <label for="product2"> insense </label>
+      <input type="checkbox" id="product3" name="product3" value="oil">
+      <label for="product3"> oil </label>
+      <input type="checkbox" id="product4" name="product4" value="candle">
+      <label for="product4"> candle</label>
+    <br>
+    <br>
+    <label for="description">Please explain what you want from aromatheorpy</label>
+    <input type="textbox" name="description" id="description" width=60px height=30px>
+    <input type="submit">
     </form>
   </body>
 </html>
