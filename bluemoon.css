@@ -38,8 +38,10 @@ height: 98vh;
   background-color: #318be6;
 }
 .content p{
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   text-align: justify;
 }
 
