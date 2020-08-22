@@ -14,3 +14,12 @@ Mrdidg, 2020. “Soap made with love” https://pixabay.com/photos/soap-bath-soa
 
 Silviarita, 2018. “Soap and flowers” https://pixabay.com/photos/soap-calendula-marigold-flowers-3809466/
 
+Park East day School, 2020. "soap" https://parkeastdayschool.org/wp-content/uploads/2019/03/Soap.jpg
+
+Ikea, 2020. "Sinnlig" https://www.ikea.com/us/en/p/sinnlig-scented-candle-in-glass-sweet-vanilla-natural-90339978/
+
+The Green Head, 2020. "Musical Handcrafted Essential Oil Defuser" https://www.thegreenhead.com/imgs/xl/musical-handcrafted-essential-oil-diffuser-xl.jpg
+
+Wisdom Products, 2020. "Incense" http://blog.wisdomproducts.com/wp-content/uploads/2017/06/download.jpg
+
+Dreamstime, 2020, "moon" https://www.dreamstime.com/photo-moon-public-domain-image-free-82963597
